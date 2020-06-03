@@ -43,6 +43,7 @@ namespace Task_2
 				{
 					foreach (byte b in File.ReadAllBytes(fileName))
 					{
+						// Динамическая проверка для всех цепочек
 						foreach (LimitedSimbolChain chain in chains)
 						{
 							if (b >= chain.StartCode && b <= chain.EndCode)
