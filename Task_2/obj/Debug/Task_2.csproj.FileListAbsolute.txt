@@ -1,0 +1,10 @@
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\bin\Debug\Task_2.exe.config
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\bin\Debug\Task_2.exe
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\bin\Debug\Task_2.pdb
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\bin\Debug\Task_2_Lib.dll
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\bin\Debug\Task_2_Lib.pdb
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\obj\Debug\Task_2.csproj.CopyComplete
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\obj\Debug\Task_2.exe
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2\obj\Debug\Task_2.pdb

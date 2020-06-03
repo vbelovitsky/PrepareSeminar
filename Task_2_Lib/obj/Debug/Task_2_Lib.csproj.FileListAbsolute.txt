@@ -1,0 +1,6 @@
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2_Lib\bin\Debug\Task_2_Lib.dll
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2_Lib\bin\Debug\Task_2_Lib.pdb
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2_Lib\obj\Debug\Task_2_Lib.csprojAssemblyReference.cache
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2_Lib\obj\Debug\Task_2_Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2_Lib\obj\Debug\Task_2_Lib.dll
+C:\Users\User\A\Education\_FCS\Программирование\Семинары\PrepareSem\Task_2_Lib\obj\Debug\Task_2_Lib.pdb
